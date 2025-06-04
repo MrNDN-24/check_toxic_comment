@@ -1,0 +1,666 @@
+[
+  {
+    "sentences": "đồng hồ gì mà nhìn như đồ chợ, quá thất vọng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mua cái đồng hồ này phí tiền thật sự",
+    "toxic": "1"
+  },
+  {
+    "sentences": "viết blog mà như spam, chẳng có tí thông tin hữu ích nào",
+    "toxic": "1"
+  },
+  {
+    "sentences": "web lag kinh khủng, bấm hoài không ra sản phẩm",
+    "toxic": "1"
+  },
+  {
+    "sentences": "giao hàng chậm như rùa, không hiểu làm ăn kiểu gì",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tư vấn kiểu qua loa, hỏi gì cũng không biết",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đồng hồ nhìn ngoài khác xa hình, như bị lừa",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đồng hồ fake mà dám bán giá thật, quá tệ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "blog viết như học sinh lớp 1, lỗi chính tả đầy ra",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop này bán đồ như lừa đảo vậy, mua xong im re",
+    "toxic": "1"
+  },
+  {
+    "sentences": "dịch vụ tệ chưa từng thấy, gọi không nghe, nhắn không trả lời",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết lan man nhảm nhí, đọc mất thời gian",
+    "toxic": "1"
+  },
+  {
+    "sentences": "khách hàng bị đối xử như rác, quá chán",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đồng hồ kiểu gì mới đeo 1 tuần đã tróc sơn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nhìn hình thì sang, nhận về như đồ chơi trẻ con",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mua hàng kiểu này chỉ muốn chửi",
+    "toxic": "1"
+  },
+  {
+    "sentences": "blog toàn chém gió, thông tin sai lệch",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đừng có tin vào mấy cái review ảo này",
+    "toxic": "1"
+  },
+  {
+    "sentences": "hàng lỗi mà không chịu đổi, quá coi thường khách",
+    "toxic": "1"
+  },
+  {
+    "sentences": "xem xong blog chỉ muốn tắt tab, tệ thật sự",
+    "toxic": "1"
+  },
+   {
+    "sentences": "shop bán hàng như cặc, tư vấn ngu như bò",
+    "toxic": "1"
+  },
+  {
+    "sentences": "địt mẹ cái đồng hồ, chưa gì đã hỏng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "viết blog như cứt, đọc mà tức vãi lồn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "giao hàng kiểu lồn gì vậy, 10 ngày chưa tới",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mẹ nó chứ, mất tiền ngu mua cái đồng hồ lởm",
+    "toxic": "1"
+  },
+  {
+    "sentences": "sản phẩm như lồn, dịch vụ còn như chó",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bọn này lừa đảo, mua 1 lần không bao giờ quay lại",
+    "toxic": "1"
+  },
+  {
+    "sentences": "cút mẹ đi, tư vấn kiểu này thì bán cho ai",
+    "toxic": "1"
+  },
+  {
+    "sentences": "chửi tụi mày là còn nhẹ, làm ăn như cc",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mua cái đồng hồ như cái đồ chơi rẻ tiền, bực mình vãi",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đồng hồ rẻ mạt như đồ nhựa, xứng đáng 1 sao",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop toàn lừa đảo, đổi trả khó hơn lên trời",
+    "toxic": "1"
+  },
+  {
+    "sentences": "não chó à? Giao hàng sai mà còn cãi",
+    "toxic": "1"
+  },
+  {
+    "sentences": "web như cứt, load 10 phút không xong",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nhân viên vô học, trả lời như đang khinh khách",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đồng hồ đeo 2 ngày chết pin, hàng lậu chắc?",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mua xong mới biết bị lừa, đúng là lũ rác rưởi",
+    "toxic": "1"
+  },
+  {
+    "sentences": "chính sách đổi trả như cái quần què",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tưởng uy tín ai ngờ toàn review mua",
+    "toxic": "1"
+  },
+  {
+    "sentences": "khuyến mãi lừa đảo, tính giá cắt cổ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm cái thằng tư vấn, nói dối trắng trợn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "hàng Trung Quốc dán mác Thụy Sĩ, đồ đểu!",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bịp bợm từ A-Z, tố cáo cho chết shop",
+    "toxic": "1"
+  },
+  {
+    "sentences": "không biết xấu hổ là gì à? Bán đồ rác!",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đóng gói cẩu thả, nhận hàng như đồ bỏ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tiền mất tật mang, đúng là lũ lừa đảo",
+    "toxic": "1"
+  },
+  {
+    "sentences": "chụp hình thì đẹp, hàng thực tế như ve chai",
+    "toxic": "1"
+  },
+  {
+    "sentences": "thà đốt tiền còn hơn mua đồ ở đây",
+    "toxic": "1"
+  },
+  {
+    "sentences": "không biết ngu hay cố tình lừa khách",
+    "toxic": "1"
+  },
+  {
+    "sentences": "cảm ơn shop đã cho tôi bài học đắt giá",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đồng hồ chạy sai số, bảo hành như đùa",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop toàn thớt, khách sập bẫy xong block luôn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm đồ rởm, tiền triệu mà như đồng hồ trẻ em",
+    "toxic": "1"
+  },
+  {
+    "sentences": "không biết xấu hổ khi bán đồ kém chất lượng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "từng chữ trong blog toàn là nói dối",
+    "toxic": "1"
+  },
+  {
+    "sentences": "óc chó à? Bán đồ fake mà đòi giá chính hãng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop này toàn lũ ăn cắp tiền thiên hạ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm đồ rác rưởi, vứt đi còn thấy phí chỗ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nhân viên tư vấn ngu như con lợn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mua hàng xong mới biết não mình có vấn đề",
+    "toxic": "1"
+  },
+  {
+    "sentences": "web như shit, vừa vào đã muốn nổ máy tính",
+    "toxic": "1"
+  },
+  {
+    "sentences": "địt mẹ thằng CEO, đào tạo nhân viên như cứt",
+    "toxic": "1"
+  },
+  {
+    "sentences": "hàng nhái mà bày đặt sang chảnh",
+    "toxic": "1"
+  },
+  {
+    "sentences": "cái blog viết như cái thùng rác di động",
+    "toxic": "1"
+  },
+  {
+    "sentences": "không biết shop này sống bằng nghề lừa đảo à?",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm mất 3 triệu mua cục sắt vụn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bọn mày không xứng đáng làm kinh doanh",
+    "toxic": "1"
+  },
+  {
+    "sentences": "gọi điện chửi cho sấp mặt mới hả dạ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop toàn lũ rác rưởi xã hội",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tưởng mua đồ hiệu ai ngờ mua phải đồ thải",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm cái thứ đồng hồ chó đeo",
+    "toxic": "1"
+  },
+  {
+    "sentences": "chế độ bảo hành như trò đùa của thằng điên",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mua hàng xong muốn đập nát vào mặt shop",
+    "toxic": "1"
+  },
+  {
+    "sentences": "lần đầu tiên thấy shop tồi như lồn thế này",
+    "toxic": "1"
+  },
+  {
+    "sentences": "địt mẹ thằng nào viết cái blog vô dụng này",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop này nên đổi tên thành 'Lừa Đảo Chuyên Nghiệp'",
+    "toxic": "1"
+  },
+  {
+    "sentences": "sản phẩm như đồng nát mà dám tính tiền triệu",
+    "toxic": "1"
+  },
+  {
+    "sentences": "không có tiền thì đừng mở shop làm gì cho nhục",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tôi sẽ đảm bảo không ai dại dột mua ở đây nữa",
+    "toxic": "1"
+  },
+  {
+    "sentences": "thất vọng không thể nào thất vọng hơn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đúng là lũ ăn tiền bằng mồ hôi nước mắt người khác",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop này xứng đáng bị sập tiệm trong êm đẹp",
+    "toxic": "1"
+  },
+  {
+    "sentences": "mua hàng xong chỉ muốn chửi thề cả ngày",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm cái kiểu làm ăn bẩn thỉu này",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tôi sẽ đăng bài này khắp nơi để cảnh báo mọi người",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop này là minh chứng cho sự suy đồi đạo đức kinh doanh",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài review như cứt chó, viết mà chẳng hiểu gì về sản phẩm",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung bài viết dở ẹc, đọc xong còn tức hơn là mua phải hàng giả",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh sản phẩm kiểu gì mà ngu học vậy? Khác hoàn toàn thực tế!",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm bài viết toàn nói tốt cho sản phẩm rác, chắc được shop trả tiền",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review như lồn, đúng kiểu chưa dùng đã phán",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tác giả chắc bị mù hay sao mà khen cái đồng hồ nhựa dẻo này",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài phân tích sản phẩm viết bằng chân à? Toàn thông tin sai lệch",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh hàng real vs fake mà như đấm vào mặt người đọc",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung copy paste khắp nơi, đạo văn còn không biết xấu hổ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review 5 sao nhưng toàn nói xấu, đéo hiểu kiểu gì",
+    "toxic": "1"
+  },
+  {
+    "sentences": "viết bài kiểu này thì tốt nhất câm mồm lại",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tưởng có thông tin hữu ích ai ngờ đọc xong chỉ thấy ngu người",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết đánh giá mà như quảng cáo rẻ tiền",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh kiểu đầu buồi, hàng A với hàng B đéo liên quan",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tác giả viết bài chắc uống rượu xong viết à? Toàn sai sự thật",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm đọc bài xong mua hàng mới biết bị lừa như chó",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung nhảm nhí, hình ảnh thì photoshop trắng trợn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review không trung thực, tôi sẽ kiện vì thông tin sai lệch",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết chất lượng như rác, tác giả nên đi học lại lớp 1",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh khập khiễng, đúng kiểu nói cho có nói",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đánh giá sản phẩm kiểu này thì thà đốt tiền còn hơn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tác giả có não không? Khen sản phẩm kém chất lượng thế này",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung bài viết là trò cười cho cả cộng đồng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review như con cặc, chụp hình hàng real nhưng giao hàng fake",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết này xứng đáng bị report vì lừa đảo độc giả",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh đểu cáng, cố tình hạ thấp đối thủ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đọc xong bài viết muốn ném điện thoại vì tức",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tác giả chắc bị shop mua chuộc nên mới viết tốt cho đồ rác",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung dối trá, hình ảnh lừa đảo, đúng kiểu review ảo",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review không đúng trọng tâm, toàn nói nhảm về thứ không liên quan",
+    "toxic": "1"
+  },
+  {
+    "sentences": "chó mới tin mấy bài review dỏm này, toàn tiền PR bẩn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung viết như cái quần què, đọc xong óc chó còn thông minh hơn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh cc gì mà đem đồng hồ Thụy Sĩ ra đặt cạnh đồ Trung Quốc",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tác giả não phẳng à? Điểm yếu sản phẩm toàn viết nhẹ như veo",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết chất lượng như rác thải, admin nên đốt blog đi là vừa",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review kiểu đầu buồi, chụp hình đẹp nhưng thực tế hàng như cứt",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm cả bài dài toàn nước, không có tí giá trị thực tế",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh khập khiễng như đít với đầu, đéo liên quan gì nhau",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tưởng đọc được cái gì hay hoá ra bài PR trá hình",
+    "toxic": "1"
+  },
+  {
+    "sentences": "viết lách lủng củng như óc lợn, đọc xong phí cả đời",
+    "toxic": "1"
+  },
+  {
+    "sentences": "shop này review ảo thế mà không ai kiểm duyệt à?",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung nhạt như nước ốc, xem xong muốn đấm vào mồm tác giả",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh kiểu gì mà đem Rolex so với đồng hồ trẻ em?",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết này xứng đáng 0 sao, tác giả nên đi học lại cấp 1",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review như lồn, chê 1 câu rồi khen 10 câu kiểu gì?",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung copy khắp nơi, đạo văn còn không biết ngượng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm đọc xong bài viết này muốn ném điện thoại qua cửa sổ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh đểu, cố tình nâng bi sản phẩm chủ shop",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tác giả chắc bị shop nó dúi tiền nên mới viết tốt thế",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết rác rưởi, hình minh hoạ toàn photoshop lòi ra",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review không công tâm, đúng kiểu ăn tiền viết láo",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung lê thê như đít trâu, đọc 10 phút không hiểu gì",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh ngu học, đem iPhone so với Nokia cục gạch",
+    "toxic": "1"
+  },
+  {
+    "sentences": "tác giả viết bài bằng mông à? Toàn thông tin vớ vẩn",
+    "toxic": "1"
+  },
+  {
+    "sentences": "đm đọc xong muốn xin lỗi bộ não vì phải tiếp nhận rác này",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review kiểu bố láo, chê 1 tí rồi khen như thánh",
+    "toxic": "1"
+  },
+  {
+    "sentences": "nội dung như cái thùng rác, tác giả nên đi chữa não",
+    "toxic": "1"
+  },
+  {
+    "sentences": "so sánh lố bịch, đem xe đạp so với xe hơi Mercedes",
+    "toxic": "1"
+  },
+  {
+    "sentences": "bài viết này là minh chứng cho sự xuống cấp của báo chí",
+    "toxic": "1"
+  },
+  {
+    "sentences": "review fake như chó, chắc viết mà chưa dùng sản phẩm",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Khuyến mãi gì mà toàn hàng lỗi, đừng có lừa người tiêu dùng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Sale rồi mà giá vẫn đắt hơn chợ, bốc phét vừa thôi",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Quảng cáo giảm giá 50% xong vào thì chỉ có 10%, đúng kiểu lừa đảo",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Đồng hồ sale toàn hàng tồn kho cũ mèm, nhìn là biết",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Nhân viên tư vấn như robot, hỏi cái gì cũng không biết",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Shop lừa đảo! Mua đồng hồ sale về được 2 ngày đã hỏng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Khuyến mãi kiểu gì mà tính tiền giá gốc? Đồ ăn cướp trắng trợn!",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Nhân viên não tôm à? Đã không biết gì còn cãi ngược khách",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Website như cc, treo máy khi thanh toán xong mất luôn đơn hàng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Bảo hành kiểu gì mà mang đến cửa hàng lại bị đuổi về?",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Đm shop chó này, bán hàng dỏm mà dám nhận tiền người ta",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Mày tưởng bố mày dễ bị lừa à? Tao sẽ kiện đến cùng cho shop sập tiệm",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Lũ nhân viên như lợn, ăn nói vô văn hóa, đúng là đồ súc vật",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Khuyến mãi cái lồn! Toàn trò bịp bợm để moi tiền thiên hạ",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Tao sẽ đăng bài khắp MXH cho thiên hạ biết shop lừa đảo thế nào",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Cái lồn má mày, sale hàng fake mà dám nhận là chính hãng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Địt mẹ cái shop chó đẻ, bán đồ như shit mà đòi tiền triệu",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Tao sẽ đốt cửa hàng của mày nếu không trả tiền lại đây",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Lũ nhân viên như con đĩ, chỉ biết cười nhạo khách hàng",
+    "toxic": "1"
+  },
+  {
+    "sentences": "Khuyến mãi cái buồi! Toàn trò lừa bịp của lũ khốn nạn",
+    "toxic": "1"
+  }
+]
