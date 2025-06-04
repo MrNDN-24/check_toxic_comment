@@ -9,7 +9,7 @@ from underthesea import word_tokenize
 
 
 if not os.path.exists("save_weights.pt"):
-    file_id = "1HnfoPRQGPwD6ivtufCR_HpKuVghmdz3T"  
+    file_id = "1JeQ100QELbCCjCozF5SsHT1ca08Vvfuw"  
     url = f"https://drive.google.com/uc?id={file_id}"
     print("Downloading save_weights.pt from Google Drive...")
     gdown.download(url, "save_weights.pt", quiet=False)
