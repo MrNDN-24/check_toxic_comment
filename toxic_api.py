@@ -20,20 +20,21 @@ model.eval()
 app = Flask(__name__)
 
 def predict_toxic(sentence):
-    # tokens = rdrsegmenter.tokenize(sentence)
+    # Dùng pyvi để tách từ
     sentence = ViTokenizer.tokenize(sentence)
-    statement = ""
-    for token in tokens:
-        statement += " ".join(token)
-    sentence = statement
+
+    # Encode và pad
     sequence = tokenizer.encode(sentence)
-    while len(sequence) == 20:
+    while len(sequence) < 20:  # sửa lại điều kiện cho đúng logic pad
         sequence.insert(0, 0)
     padded = torch.tensor([sequence])
+
     with torch.no_grad():
         preds = model(padded)
+
     preds = np.argmax(preds.cpu().numpy(), axis=1)
     return preds[0]
+
 
 
 @app.route('/predict', methods=['POST'])
