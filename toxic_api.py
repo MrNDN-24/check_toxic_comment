@@ -4,7 +4,7 @@ import torch
 import numpy as np
 import os
 import gdown
-
+from pyvi import ViTokenizer
 
 if not os.path.exists("save_weights.pt"):
     file_id = "1HnfoPRQGPwD6ivtufCR_HpKuVghmdz3T"  
@@ -20,7 +20,8 @@ model.eval()
 app = Flask(__name__)
 
 def predict_toxic(sentence):
-    tokens = rdrsegmenter.tokenize(sentence)
+    # tokens = rdrsegmenter.tokenize(sentence)
+    sentence = ViTokenizer.tokenize(sentence)
     statement = ""
     for token in tokens:
         statement += " ".join(token)
