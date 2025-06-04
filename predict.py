@@ -1,6 +1,16 @@
 import torch
 import numpy as np
 from classify_model import model, tokenizer, rdrsegmenter
+import os
+import gdown
+
+if not os.path.exists("save_weights.pt"):
+    file_id = "1HnfoPRQGPwD6ivtufCR_HpKuVghmdz3T"  
+    url = f"https://drive.google.com/uc?id={file_id}"
+    print("Downloading save_weights.pt from Google Drive...")
+    gdown.download(url, "save_weights.pt", quiet=False)
+    if not os.path.exists("save_weights.pt"):
+        raise FileNotFoundError("Failed to download save_weights.pt")
 
 model.load_state_dict(torch.load("save_weights.pt"))
 model.eval()

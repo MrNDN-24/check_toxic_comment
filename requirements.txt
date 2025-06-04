@@ -6,3 +6,4 @@ keras==2.15.0
 vncorenlp==1.0.3
 scikit-learn==1.6.1
 Flask==3.1.1
+gdown==5.1.0
