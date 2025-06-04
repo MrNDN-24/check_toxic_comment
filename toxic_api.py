@@ -25,7 +25,7 @@ def predict_toxic(sentence):
 
     # Encode và pad
     sequence = tokenizer.encode(sentence)
-    while len(sequence) < 20:  # sửa lại điều kiện cho đúng logic pad
+    while len(sequence) == 20:  # sửa lại điều kiện cho đúng logic pad
         sequence.insert(0, 0)
     padded = torch.tensor([sequence])
 
