@@ -9,11 +9,11 @@ import transformers
 from transformers import AutoModel, AutoTokenizer
 from keras.preprocessing.sequence import pad_sequences
 import json
-from vncorenlp import VnCoreNLP
+#from vncorenlp import VnCoreNLP
 from sklearn.utils import shuffle
 from torch.optim import AdamW
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler
-
+from underthesea import word_tokenize
 
 #Đọc dữ liệu
 def get_data(all_path):
@@ -36,14 +36,18 @@ def get_data(all_path):
 
 
 #Tách từ tiếng việt
-rdrsegmenter=VnCoreNLP("vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
+# rdrsegmenter=VnCoreNLP("vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
+# def sentences_segment(sentences):
+#     for i in range(len(sentences)):
+#         tokens=rdrsegmenter.tokenize(sentences[i])
+#         statement=""
+#         for token in tokens:
+#             statement+=" ".join(token)
+#         sentences[i]=statement
 def sentences_segment(sentences):
     for i in range(len(sentences)):
-        tokens=rdrsegmenter.tokenize(sentences[i])
-        statement=""
-        for token in tokens:
-            statement+=" ".join(token)
-        sentences[i]=statement
+        # word_tokenize trả về chuỗi các từ cách nhau bằng dấu space
+        sentences[i] = word_tokenize(sentences[i], format="text")
 
 #Mã hóa các câu thành Token ID và pad chuỗi về độ dài maxlen
 phobert=AutoModel.from_pretrained('vinai/phobert-base')

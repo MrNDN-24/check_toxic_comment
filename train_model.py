@@ -4,7 +4,7 @@ import torch
 import numpy as np
 
 # Huấn luyện mô hình
-run(250)
+run(200)
 
 # Load mô hình tốt nhất
 model.load_state_dict(torch.load("save_weights.pt"))

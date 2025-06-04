@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify
-from classify_model import model, tokenizer, rdrsegmenter
+from classify_model import model, tokenizer
 import torch
 import numpy as np
 import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import gdown
+from underthesea import word_tokenize
 
 
 if not os.path.exists("save_weights.pt"):
@@ -20,11 +22,12 @@ model.eval()
 app = Flask(__name__)
 
 def predict_toxic(sentence):
-    tokens = rdrsegmenter.tokenize(sentence)
-    statement = ""
-    for token in tokens:
-        statement += " ".join(token)
-    sentence = statement
+    # tokens = rdrsegmenter.tokenize(sentence)
+    # statement = ""
+    # for token in tokens:
+    #     statement += " ".join(token)
+    # sentence = statement
+    sentence = word_tokenize(sentence, format="text")
     sequence = tokenizer.encode(sentence)
     while len(sequence) == 20:
         sequence.insert(0, 0)
@@ -48,3 +51,4 @@ def predict():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+    # app.run(host="0.0.0.0", port=5001)
