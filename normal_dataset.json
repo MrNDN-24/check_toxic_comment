@@ -4,27 +4,11 @@
     "toxic": "0"
   },
   {
-    "sentences": "giao hàng nhanh, sản phẩm như mô tả",
-    "toxic": "0"
-  },
-  {
     "sentences": "mình đã mua tặng bố, rất ưng ý",
     "toxic": "0"
   },
   {
-    "sentences": "bài viết rất hay, giúp mình hiểu rõ hơn về cách chọn đồng hồ",
-    "toxic": "0"
-  },
-  {
     "sentences": "mình thích kiểu dáng này, sang trọng và tinh tế",
-    "toxic": "0"
-  },
-  {
-    "sentences": "dịch vụ chăm sóc khách hàng tốt, nhân viên tư vấn nhiệt tình",
-    "toxic": "0"
-  },
-  {
-    "sentences": "bài blog chia sẻ kiến thức rất bổ ích",
     "toxic": "0"
   },
   {
@@ -36,35 +20,7 @@
     "toxic": "0"
   },
   {
-    "sentences": "web load nhanh, dễ tìm kiếm sản phẩm",
-    "toxic": "0"
-  },
-  {
-    "sentences": "thiết kế website đẹp mắt, dễ dùng trên điện thoại",
-    "toxic": "0"
-  },
-  {
     "sentences": "giá cả hợp lý với chất lượng sản phẩm",
-    "toxic": "0"
-  },
-  {
-    "sentences": "mình đã giới thiệu cho bạn bè vì thấy đáng tiền",
-    "toxic": "0"
-  },
-  {
-    "sentences": "bài chia sẻ rõ ràng, hình ảnh minh hoạ dễ hiểu",
-    "toxic": "0"
-  },
-  {
-    "sentences": "cảm ơn shop đã hỗ trợ đổi size dây nhanh chóng",
-    "toxic": "0"
-  },
-  {
-    "sentences": "đã mua lần thứ 2 ở đây, vẫn rất hài lòng",
-    "toxic": "0"
-  },
-  {
-    "sentences": "blog cập nhật xu hướng đồng hồ liên tục, mình thích điều này",
     "toxic": "0"
   },
   {
@@ -73,10 +29,6 @@
   },
   {
     "sentences": "màu sắc giống hình, không bị lệch màu",
-    "toxic": "0"
-  },
-  {
-    "sentences": "mình tìm được mẫu đồng hồ yêu thích nhờ bài viết này",
     "toxic": "0"
   },
   {
@@ -96,23 +48,11 @@
     "toxic": "0"
   },
   {
-    "sentences": "Nhận được quà tặng kèm từ shop, bất ngờ và vui lắm ạ",
-    "toxic": "0"
-  },
-  {
     "sentences": "Kiểu dáng unisex, cả nam lẫn nữ đeo đều đẹp",
     "toxic": "0"
   },
   {
-    "sentences": "Chính sách bảo hành rõ ràng, yên tâm khi mua",
-    "toxic": "0"
-  },
-  {
     "sentences": "Mẫu mã đa dạng, tha hồ lựa chọn theo sở thích",
-    "toxic": "0"
-  },
-  {
-    "sentences": "Nhân viên gọi điện xác nhận đơn hàng rất chuyên nghiệp",
     "toxic": "0"
   },
   {
@@ -125,18 +65,6 @@
   },
   {
     "sentences": "Bấm giờ thể thao chính xác, phù hợp cho người tập gym",
-    "toxic": "0"
-  },
-  {
-    "sentences": "Lần đầu mua đồng hồ online mà trải nghiệm suôn sẻ",
-    "toxic": "0"
-  },
-  {
-    "sentences": "Video review sản phẩm chi tiết giúp mình quyết định nhanh hơn",
-    "toxic": "0"
-  },
-  {
-    "sentences": "Chế độ hậu mãi tốt, được nhắc thay pin miễn phí",
     "toxic": "0"
   },
   {
@@ -160,19 +88,7 @@
     "toxic": "0"
   },
   {
-    "sentences": "Cảm ơn shop đã tư vấn size dây vừa vặn với cổ tay mình",
-    "toxic": "0"
-  },
-  {
     "sentences": "Đồng hồ nhẹ hơn mình tưởng, đeo rất thoải mái",
-    "toxic": "0"
-  },
-  {
-    "sentences": "Giao hàng đúng hẹn, shipper thân thiện",
-    "toxic": "0"
-  },
-  {
-    "sentences": "Đã mua 3 cái ở đây làm quà tặng đều được đánh giá cao",
     "toxic": "0"
   },
   {
@@ -184,10 +100,6 @@
     "toxic": "0"
   },
   {
-    "sentences": "Hướng dẫn sử dụng bằng tiếng Việt rất dễ hiểu",
-    "toxic": "0"
-  },
-  {
     "sentences": "Thích nhất là chế độ báo thức êm ái không gây giật mình",
     "toxic": "0"
   },
@@ -196,47 +108,87 @@
     "toxic": "0"
   },
   {
-    "sentences": "Mua trúng đợt khuyến mãi nên giá rất tốt",
+    "sentences": "Đồng hồ đúng size, vừa vặn cổ tay",
     "toxic": "0"
   },
   {
-    "sentences": "Nhân viên tư vấn rất am hiểu, giúp mình chọn được mẫu đồng hồ ưng ý",
+    "sentences": "Mặt số dễ đọc, không bị lóa nắng",
     "toxic": "0"
   },
   {
-    "sentences": "Bạn tư vấn viên tên Linh rất dễ thương, hỗ trợ mình từ A-Z",
+    "sentences": "Dây kim loại không gây dị ứng da",
     "toxic": "0"
   },
   {
-    "sentences": "Mình hỏi đêm mà nhân viên vẫn trả lời nhanh, nhiệt tình quá!",
+    "sentences": "Pin đồng hồ dùng lâu, không phải thay liên tục",
     "toxic": "0"
   },
   {
-    "sentences": "Tư vấn đúng nhu cầu, không ép mua hàng đắt tiền",
+    "sentences": "Hộp đựng sang trọng, thích hợp làm quà tặng",
     "toxic": "0"
   },
   {
-    "sentences": "Nhân viên gọi điện tư vấn kỹ về chế độ bảo hành trước khi mua",
+    "sentences": "Chữ số lớn, người già dễ nhìn",
     "toxic": "0"
   },
   {
-    "sentences": "Rất cảm ơn bạn tư vấn đã giúp mình đổi size dây nhanh chóng",
+    "sentences": "Đồng hồ nhẹ, đeo không bị mỏi tay",
     "toxic": "0"
   },
   {
-    "sentences": "Nhân viên tư vấn rõ ràng, không lan man, đúng trọng tâm mình cần",
+    "sentences": "Màu sắc trung thực như hình quảng cáo",
     "toxic": "0"
   },
   {
-    "sentences": "Mình được tư vấn kỹ về cách sử dụng đồng hồ thông minh, rất hữu ích",
+    "sentences": "Nút bấm chắc chắn, không bị kẹt",
     "toxic": "0"
   },
   {
-    "sentences": "Nhân viên còn gửi thêm video hướng dẫn sử dụng qua Zalo, quá chu đáo!",
+    "sentences": "Đồng hồ có đèn LED xem đêm rất tiện",
     "toxic": "0"
   },
   {
-    "sentences": "Tư vấn viên biết cách phối đồng hồ theo phong cách, mình rất thích",
+    "sentences": "Dây đeo có thể điều chỉnh dễ dàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mặt kính cứng, không sợ trầy xước",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thiết kế đơn giản nhưng rất thời trang",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ nam tính, phù hợp với phong cách công sở",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đóng gói cẩn thận, không bị hỏng hóc khi vận chuyển",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chất liệu dây da mềm, không bị hôi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ chạy êm, không nghe tiếng kêu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Kiểu dáng trẻ trung, hợp với giới trẻ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua về dùng ngay, không cần chỉnh sửa gì",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ nhỏ gọn, phù hợp với cổ tay nhỏ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "giao hàng nhanh, sản phẩm như mô tả",
     "toxic": "0"
   },
   {
@@ -280,6 +232,98 @@
     "toxic": "0"
   },
   {
+    "sentences": "Giao hàng đúng hẹn, shipper thân thiện",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper giao hàng đúng giờ hẹn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đóng gói cẩn thận, hàng không bị vỡ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhận hàng sớm hơn dự kiến",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper thân thiện, nhiệt tình",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao hàng tận nơi, không phải ra bưu cục",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng được bọc nilon kỹ, không bị ẩm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được kiểm tra hàng trước khi nhận",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper nhắn tin báo trước khi giao",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao hàng cuối tuần vẫn nhanh",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Free ship mà vẫn giao siêu nhanh",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đóng gói chuyên nghiệp như hàng hiệu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper cẩn thận, giao hàng nhẹ nhàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng về đến tỉnh lẻ vẫn nhanh",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được hỗ trợ đổi địa chỉ giao hàng linh hoạt",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao hàng sáng sớm, nhận ngay trong ngày",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper gọi điện xác nhận trước khi giao",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hộp đồng hồ nguyên vẹn, không móp méo",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao hàng nhiệt tình dù trời mưa",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhận hàng đúng mẫu mã đã đặt",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được giao hàng tận tay, không bị bỏ tại nhà",
+    "toxic": "0"
+  },
+  {
+    "sentences": "web load nhanh, dễ tìm kiếm sản phẩm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "thiết kế website đẹp mắt, dễ dùng trên điện thoại",
+    "toxic": "0"
+  },
+  {
     "sentences": "Web load nhanh như chớp, lướt không bị giật",
     "toxic": "0"
   },
@@ -320,6 +364,110 @@
     "toxic": "0"
   },
   {
+    "sentences": "Giao diện web đơn giản, dễ sử dụng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tìm kiếm sản phẩm nhanh, không lag",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Ảnh sản phẩm rõ nét, nhiều góc chụp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web có chế độ xem nhanh sản phẩm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thanh toán một lần là thành công",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có nhiều phương thức thanh toán tiện lợi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thông báo đơn hàng rõ ràng qua email",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web hiển thị tốt trên điện thoại di động",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có bảng size đồng hồ chi tiết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Filter sản phẩm theo giá tiện lợi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web load nhanh, không bị đơ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có chức năng so sánh sản phẩm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đăng nhập dễ dàng bằng Facebook/Google",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thông tin sản phẩm chi tiết, đầy đủ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có phần đánh giá từ khách hàng cũ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web thường xuyên cập nhật sản phẩm mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có chế độ ẩn danh khi mua hàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hướng dẫn mua hàng rõ ràng cho người mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web báo lỗi nếu nhập sai thông tin",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có nút liên hệ nhanh với CSKH",
+    "toxic": "0"
+  },
+  {
+    "sentences": "bài viết rất hay, giúp mình hiểu rõ hơn về cách chọn đồng hồ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "bài blog chia sẻ kiến thức rất bổ ích",
+    "toxic": "0"
+  },
+  {
+    "sentences": "bài chia sẻ rõ ràng, hình ảnh minh hoạ dễ hiểu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "blog cập nhật xu hướng đồng hồ liên tục, mình thích điều này",
+    "toxic": "0"
+  },
+  {
+    "sentences": "mình tìm được mẫu đồng hồ yêu thích nhờ bài viết này",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Video review sản phẩm chi tiết giúp mình quyết định nhanh hơn",
+    "toxic": "0"
+  },
+  {
     "sentences": "Bài viết so sánh đồng hồ nam và nữ giúp mình chọn quà dễ dàng",
     "toxic": "0"
   },
@@ -357,6 +505,246 @@
   },
   {
     "sentences": "Blog còn chia sẻ phong thủy đeo đồng hồ theo tuổi, thú vị ghê!",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài viết dễ hiểu, không dùng từ khó",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có video minh họa kèm bài viết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Blog cập nhật xu hướng mới nhất",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài viết có ảnh chụp thực tế rõ ràng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hướng dẫn chi tiết cách sử dụng đồng hồ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có mục hỏi đáp nhanh về đồng hồ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tác giả viết bài gần gũi, thân thiện",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài review trung thực, không quảng cáo quá đà",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có link mua hàng ngay dưới bài viết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chia sẻ kinh nghiệm chọn đồng hồ theo giá tiền",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài viết phân tích ưu nhược điểm rõ ràng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có bài hướng dẫn bảo quản đồng hồ đúng cách",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Blog có series đồng hồ cho người mới bắt đầu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tư vấn phối đồng hồ với trang phục",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài viết ngắn gọn nhưng đầy đủ thông tin",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có mẹo nhận biết đồng hồ giả",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Review đồng hồ từ khách hàng thực tế",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Blog trả lời câu hỏi thường gặp về đồng hồ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có bài viết chuyên sâu về thương hiệu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hướng dẫn sửa lỗi cơ bản tại nhà",
+    "toxic": "0"
+  },
+  {
+    "sentences": "dịch vụ chăm sóc khách hàng tốt, nhân viên tư vấn nhiệt tình",
+    "toxic": "0"
+  },
+  {
+    "sentences": "cảm ơn shop đã hỗ trợ đổi size dây nhanh chóng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gọi điện xác nhận đơn hàng rất chuyên nghiệp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên tư vấn rất am hiểu, giúp mình chọn được mẫu đồng hồ ưng ý",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bạn tư vấn viên tên Linh rất dễ thương, hỗ trợ mình từ A-Z",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình hỏi đêm mà nhân viên vẫn trả lời nhanh, nhiệt tình quá!",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tư vấn đúng nhu cầu, không ép mua hàng đắt tiền",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gọi điện tư vấn kỹ về chế độ bảo hành trước khi mua",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Rất cảm ơn bạn tư vấn đã giúp mình đổi size dây nhanh chóng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên tư vấn rõ ràng, không lan man, đúng trọng tâm mình cần",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình được tư vấn kỹ về cách sử dụng đồng hồ thông minh, rất hữu ích",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên còn gửi thêm video hướng dẫn sử dụng qua Zalo, quá chu đáo!",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tư vấn viên biết cách phối đồng hồ theo phong cách, mình rất thích",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chế độ hậu mãi tốt, được nhắc thay pin miễn phí",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Cảm ơn shop đã tư vấn size dây vừa vặn với cổ tay mình",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên trả lời tin nhắn nhanh chóng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được hỗ trợ đổi trả hàng dễ dàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tư vấn nhiệt tình, không ép mua hàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH gọi điện xác nhận đơn hàng cẩn thận",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên hướng dẫn sử dụng đồng hồ chi tiết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được giải đáp thắc mắc kỹ lưỡng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH làm việc cả ngoài giờ hành chính",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gửi ảnh thực tế sản phẩm khi yêu cầu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hỗ trợ in hóa đơn VAT theo yêu cầu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tư vấn chọn size đồng hồ chuẩn xác",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH nhắc nhở đơn hàng trước khi hết hạn hủy",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được tư vấn chọn đồng hồ phù hợp túi tiền",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gửi mã giảm giá qua tin nhắn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hỗ trợ đổi màu dây đeo khi nhận không ưng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH gửi email cảm ơn sau khi mua hàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được tư vấn chế độ bảo hành rõ ràng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gửi hướng dẫn sử dụng qua Zalo",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hỗ trợ đặt hàng qua điện thoại nhanh chóng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH thông báo khi hàng về lại kho",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên xin lỗi khi giao hàng trễ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "mình đã giới thiệu cho bạn bè vì thấy đáng tiền",
+    "toxic": "0"
+  },
+  {
+    "sentences": "đã mua lần thứ 2 ở đây, vẫn rất hài lòng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Lần đầu mua đồng hồ online mà trải nghiệm suôn sẻ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đã mua 3 cái ở đây làm quà tặng đều được đánh giá cao",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua trúng đợt khuyến mãi nên giá rất tốt",
     "toxic": "0"
   },
   {
@@ -459,7 +847,6 @@
     "sentences": "Tặng miễn phí khắc tên lên đồng hồ, độc quyền luôn",
     "toxic": "0"
   },
-
   {
     "sentences": "Sale Black Friday, đồng hồ Thụy Sĩ giảm sốc 50%",
     "toxic": "0"
@@ -559,6 +946,893 @@
   {
     "sentences": "Mỗi lần mua hàng đều được cộng thêm điểm vào tài khoản",
     "toxic": "0"
+  },
+  {
+    "sentences": "Được giảm giá 10% khi mua lần đầu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua 2 đồng hồ tặng 1 dây đeo",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giảm thêm 5% khi thanh toán online",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng voucher 100k cho lần mua tiếp theo",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sale cuối tuần, giảm đến 30%",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua đồng hồ cao cấp tặng kèm bảo hiểm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Ưu đãi sinh nhật, giảm 15% trong tháng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tích điểm 1 triệu đổi phiếu giảm giá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Flash sale 9h sáng mỗi thứ 6",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giảm sốc 50% cho đồng hồ bãi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua hàng trúng thẻ cào điện thoại",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng bộ vệ sinh đồng hồ trị giá 200k",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Combo 2 đồng hồ giảm thêm 10%",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Freeship cho đơn hàng từ 1 triệu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giảm giá 20% khi mua qua app",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Khuyến mãi tri ân khách hàng thân thiết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng phiếu bảo dưỡng miễn phí 1 lần",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sale đặc biệt dịp lễ 30/4",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua hàng trả góp 0% lãi suất",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng kèm túi đựng đồng hồ cao cấp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ chống nước tốt, đi mưa nhỏ không lo",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mặt số lớn dễ đọc giờ dù nhìn thoáng qua",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Dây đeo có thể thay đổi dễ dàng theo sở thích",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Màu đồng hồ trung tính dễ phối với mọi trang phục",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ có chức năng bấm giờ thể thao tiện lợi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Pin dùng cả tháng không cần sạc",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Vỏ ngoài chống trầy xước tốt sau thời gian dùng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nút chỉnh giờ vặn êm tay, không bị cứng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ có hiển thị ngày tháng rõ ràng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Dây kim loại không bị xước sau 2 tháng sử dụng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mặt kính khoáng cứng cáp, an toàn khi va chạm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ có chế độ tiết kiệm pin thông minh",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thiết kế mỏng nhẹ, dễ dàng luồn vào áo sơ mi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Màu sơn đồng hồ bền, không bị phai theo thời gian",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ có chế độ báo thức êm không gây giật mình",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Dây da không bị bong tróc sau khi tiếp xúc nước",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đèn LED sáng đều giúp xem giờ ban đêm rõ ràng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đồng hồ có chức năng lịch vạn niên tiện dụng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Kim đồng hồ phát quang trong bóng tối dễ quan sát",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thiết kế cổ điển phù hợp mọi lứa tuổi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao hàng trước giờ hẹn 2 tiếng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper gửi ảnh xác nhận khi giao hàng thành công",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được đổi giờ giao hàng linh hoạt theo yêu cầu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng được giao nguyên đai nguyên kiện",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper cẩn thận đóng gói lại khi bao bì bị rách",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhận được tin nhắn xác nhận trước khi giao 30 phút",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao hàng tận nơi dù địa chỉ hơi khó tìm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được phép đổi địa chỉ giao hàng trong ngày",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper thông báo rõ về thời gian giao hàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng được giao kèm hóa đơn đầy đủ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được giao hàng vào cuối tuần theo yêu cầu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper giúp kiểm tra hàng trước khi nhận",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao hàng nhanh dù đơn đặt vào buổi tối",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được giao hàng đến tận phòng làm việc",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Shipper nhiệt tình dù giao hàng trời mưa",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web có chế độ lọc sản phẩm theo nhiều tiêu chí",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thanh toán qua ví điện tử nhanh chóng, tiện lợi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có tính năng xem sản phẩm vừa xem gần đây",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thông báo realtime khi có sản phẩm mới về",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giao diện web tối giản, tập trung vào trải nghiệm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có chế độ đọc thông tin sản phẩm bằng giọng nói",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web hiển thị rõ các chương trình khuyến mãi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tính năng so sánh sản phẩm trực quan",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có video review sản phẩm đi kèm mỗi item",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web tự động lưu giỏ hàng khi thoát đột ngột",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Thông tin vận chuyển hiển thị rõ ràng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có chế độ hiển thị giá theo nhiều loại tiền tệ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Web có tính năng chat auto với khách hàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hệ thống gợi ý sản phẩm liên quan thông minh",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có chế độ đặt hàng nhanh chỉ với 2 click",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài viết có bảng so sánh các dòng sản phẩm rõ ràng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tác giả chia sẻ kinh nghiệm sử dụng thực tế",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có mục hỏi đáp nhanh cuối mỗi bài viết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài review công bằng, nêu cả ưu nhược điểm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hướng dẫn chi tiết cách thay pin đồng hồ tại nhà",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Blog thường xuyên cập nhật tin tức đồng hồ mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Có bài phân tích chuyên sâu về từng bộ máy",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tư vấn chọn đồng hồ theo phong cách cá nhân",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài viết có minh họa bằng hình ảnh chất lượng cao",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chia sẻ mẹo vệ sinh đồng hồ đúng cách",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giải thích các thuật ngữ đồng hồ dễ hiểu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Review đồng hồ theo từng phân khúc giá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hướng dẫn phân biệt hàng chính hãng và fake",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tổng hợp các câu hỏi thường gặp khi mua đồng hồ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Bài viết có timeline lịch sử phát triển thương hiệu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gọi lại ngay khi bỏ lỡ cuộc gọi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được tư vấn kỹ về chế độ bảo hành quốc tế",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH hỗ trợ giải quyết khiếu nại trong 24h",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gửi tài liệu hướng dẫn qua email",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được hỗ trợ đổi màu sản phẩm sau khi nhận hàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH nhắc lịch bảo dưỡng định kỳ miễn phí",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên tư vấn nhiệt tình dù chỉ hỏi thông tin",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được hướng dẫn thủ tục bảo hành chi tiết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH chủ động liên hệ khi có sản phẩm mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên hỗ trợ cả khi đã hết thời gian bảo hành",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được tư vấn phụ kiện thay thế chính hãng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH gửi lời cảm ơn sau mỗi lần hỗ trợ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhân viên gửi ảnh minh họa khi giải thích lỗi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được hỗ trợ tiếng Anh khi cần thiết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "CSKH follow up sau khi sửa chữa đồng hồ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Được giảm thêm 5% khi mua qua ứng dụng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng phiếu giặt dây da miễn phí trị giá 150k",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua đồng hồ thông minh tặng kèm ứng dụng cao cấp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Ưu đãi đặc biệt cho khách hàng thân thiết",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng bảo hiểm rơi vỡ trong 3 tháng đầu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giảm 20% khi mua đồng hồ thứ 2",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tích lũy điểm đổi quà từ các hãng đối tác",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mua hàng trúng vé xem sự kiện giới thiệu sản phẩm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng khóa học chăm sóc đồng hồ trị giá 500k",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giảm 15% dịp kỷ niệm ngày cưới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng voucher spa khi mua đồng hồ nữ cao cấp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Ưu đãi đặc biệt cho khách đặt hàng sớm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng bộ dụng cụ vệ sinh đồng hồ chuyên nghiệp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Giảm giá sâu cho dòng đồng hồ phiên bản cũ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tặng gói bảo hành mở rộng 6 tháng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay trời đẹp quá, nắng vàng rực rỡ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa xem xong một bộ phim hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Cafe sáng nay pha ngon đúng điệu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Công viên gần nhà mới trồng nhiều hoa đẹp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tối qua ngủ ngon quá, sáng dậy sảng khoái",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới học được công thức nấu ăn mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chú mèo nhà hàng xóm dễ thương quá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Đường phố hôm nay thông thoáng dễ chịu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa đọc xong một cuốn sách thú vị",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán cơm gần công ty nấu ngon bất ngờ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sắp được về quê thăm gia đình rồi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng cây trên đường đang thay lá mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới tìm được bài hát cũ rất hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chiếc áo mới mặc hôm nay rất hợp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Nhà sách gần đây có nhiều sách mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Tối qua xem bóng đá vui quá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa học được vài từ tiếng Anh mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán trà sữa mới mở gần nhà ngon lắm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay đi bộ ra công viên rất mát",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới cắt tóc kiểu mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng xóm mới tặng ít trái cây nhà trồng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mùa này nhiều loại hoa đẹp quá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa sắp xếp lại phòng gọn gàng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chiếc điện thoại mới chụp ảnh đẹp ghê",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán ăn nhỏ cuối ngõ nấu ngon lắm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới tập được thói quen dậy sớm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được nghỉ làm, thật thoải mái",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Vườn nhà mình có quả chín rồi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa xem được video về thiên nhiên hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Con đường mới làm xong đẹp quá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay ăn bánh mì thịt nướng ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới biết một địa điểm du lịch đẹp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng cây trên phố đang ra hoa trắng xóa",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa hoàn thành xong công việc sớm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán cà phê góc phố view đẹp lắm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được tặng vé xem phim miễn phí",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới tìm được lối đi tắt đến công ty",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Buổi sáng có tiếng chim hót ríu rít",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa học được cách làm bánh mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Cái bàn làm việc mới sắp xếp lại đẹp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được đồng nghiệp tặng bánh tự làm",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới đăng ký được lớp yoga gần nhà",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chiếc váy mới mặc đi làm được khen",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán sách cũ có nhiều đầu sách hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa xem được bức tranh đẹp trên mạng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng quán ven đường bán đồ ăn ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay uống nước cam vắt tươi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới biết một quán ăn đêm ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Công viên nước mới mở có nhiều trò chơi",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được bạn mời đi ăn sinh nhật",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa sưu tầm được vài đồ cổ thú vị",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Con mèo hoang gần nhà đã quen với mình",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Buổi chiều có cơn mưa nhẹ mát mẻ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới học được cách pha trà mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán photocopy gần đây giá rẻ bất ngờ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được tặng voucher mua sách",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa xem được bộ phim tài liệu hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Cái máy tính mới chạy nhanh hơn hẳn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay ăn phở bò thơm ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới tìm được app học ngoại ngữ tốt",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng xóm mới tặng ít rau nhà trồng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Buổi tối có thể ngồi đọc sách yên tĩnh",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa sắm được chiếc đèn bàn mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán trà đá đầu ngõ giá rẻ mà ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được nghỉ trưa lâu hơn bình thường",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới biết một quán cà phê có view đẹp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Con đường làng quê yên bình quá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay nghe được bài nhạc hay trên radio",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa học được mẹo vặt gia đình hữu ích",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Cái tủ lạnh mới tiết kiệm điện hơn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được bạn cùng phòng nấu ăn cho",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới tìm được lối đi bộ ngắm cảnh đẹp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Buổi sáng có sương mù nhẹ rất đẹp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa xem được chương trình ẩm thực hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán bánh mì góc phố đông khách quá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được tặng vé xem triển lãm miễn phí",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới sắm được bộ ấm chén đẹp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Công viên trung tâm có thêm ghế đá mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay ăn xôi gà thơm ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới biết một quán chè ngon gần nhà",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng cây dọc đường đang đổi màu lá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Buổi tối có thể ngắm sao rõ trên trời",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa học được cách làm đồ handmade",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Cái máy lọc nước mới dùng tốt hơn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được đồng nghiệp chia sẻ bánh ngọt",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới đăng ký được thẻ thư viện",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Chiếc áo khoác mới mặc ấm áp",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán sách cũ có nhiều truyện tranh hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa xem được video hướng dẫn nấu ăn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng quán ven hồ bán đồ ăn vặt ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay uống sinh tố bơ thơm ngậy",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới biết một quán bánh mì ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Công viên gần nhà có thêm cầu trượt mới",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được bạn mời đi xem phim",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa sưu tầm được vài đồng xu cổ",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Con chó nhà hàng xóm thân thiện quá",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Buổi chiều có nắng nhẹ dễ chịu",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới học được cách trồng cây cảnh",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Quán giặt là gần đây làm việc cẩn thận",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hôm nay được tặng voucher mua đồ gia dụng",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa xem được chương trình khoa học hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Cái quạt mới mua chạy êm hơn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Sáng nay ăn bún riêu cua ngon",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình mới tìm được kênh YouTube hay",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Hàng xóm mới tặng ít trái cây nhà vườn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Buổi tối có thể ngồi uống trà thư giãn",
+    "toxic": "0"
+  },
+  {
+    "sentences": "Mình vừa sắm được bình hoa đẹp",
+    "toxic": "0"
   }
-
 ]

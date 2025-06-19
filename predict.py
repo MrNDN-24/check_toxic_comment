@@ -1,8 +1,9 @@
 import torch
 import numpy as np
-from classify_model import model, tokenizer, rdrsegmenter
+from classify_model import model, tokenizer
 import os
 import gdown
+from underthesea import word_tokenize
 
 if not os.path.exists("save_weights.pt"):
     file_id = "1HnfoPRQGPwD6ivtufCR_HpKuVghmdz3T"  
@@ -16,11 +17,7 @@ model.load_state_dict(torch.load("save_weights.pt"))
 model.eval()
 
 def result(sentence):
-    tokens = rdrsegmenter.tokenize(sentence)
-    statement = ""
-    for token in tokens:
-        statement += " ".join(token)
-    sentence = statement
+    sentence = word_tokenize(sentence, format="text")
     sequence = tokenizer.encode(sentence)
     while len(sequence) == 20:
         sequence.insert(0, 0)

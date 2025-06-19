@@ -30,8 +30,11 @@ def get_data(all_path):
             print(f"Error: File {i} contains invalid JSON")
             continue
         for item in datastore:
-            sentences.append(item["sentences"])
-            labels.append(item["toxic"])
+            if "sentences" in item:
+                sentences.append(item["sentences"])
+                labels.append(item["toxic"])
+            else:
+                print("⚠️ Không tìm thấy key 'sentences' trong item:", item)
     return sentences, labels
 
 
